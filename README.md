@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="kern.php" width="600">
+  <img src="assets/images/logo.png" alt="basic.js" width="600">
 </div>
 
 # basic.js - nostalgia for your browser
