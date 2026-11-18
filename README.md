@@ -1,10 +1,14 @@
-# C=64 BASIC V2 Interpreter
+<div align="center">
+  <img src="assets/logo.png" alt="kern.php" width="600">
+</div>
+
+# basic.js - nostalgia for your browser
 
 _A little piece of 1982, running in your browser._
 
 A browser-based **Commodore 64 BASIC V2 interpreter**, built from scratch with **TypeScript**.
 
-Write and execute BASIC commands directly, create programs using classic line numbers and experience a little 8-bit nostalgia with a retro-inspired interface, authentic-looking typography, and the iconic blinking block cursor.
+Write and execute BASIC commands directly, create programs using classic line numbers and experience a little 8-bit nostalgia starting with a retro-inspired interface, authentic-looking typography, all the way to the iconic block cursor.
 
 The interpreter also powers an interactive portfolio written in BASIC.
 
