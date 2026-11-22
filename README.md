@@ -14,6 +14,29 @@ The interpreter also powers an interactive portfolio written in BASIC.
 
 Check it out [here](https://www.marclang.ch).
 
+## Table of contents
+
+- [Features](#features)
+- [Getting started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Production build](#production-build)
+- [Usage](#usage)
+  - [Direct commands](#direct-commands)
+  - [Writing and running programs](#writing-and-running-programs)
+  - [Variables and arithmetic](#variables-and-arithmetic)
+  - [Conditional execution](#conditional-execution)
+  - [Loading BASIC programs](#loading-basic-programs)
+  - [Interrupting execution](#interrupting-execution)
+  - [PETSCII colors and control codes](#petscii-colors-and-control-codes)
+  - [Retro Love extensions](#retro-love-extensions)
+- [How it works](#how-it-works)
+- [Testing](#testing)
+- [Tech stack](#tech-stack)
+- [Project scope](#project-scope)
+- [Why I built this](#why-i-built-this)
+- [AI Usage & Attribution](#ai-usage--attribution)
+
 ## Features
 
 - **Interactive BASIC interpreter** — execute commands directly in the browser.
@@ -252,6 +275,14 @@ Rather than simply recreating the appearance of a retro terminal, I built an int
 
 The result is both a programming experiment and an interactive portfolio.
 
----
+## AI Usage & Attribution
 
-_READY._ █
+AI tools were used to support the creation of selected project assets and supporting materials:
+
+- **Logo:** Generated with AI.
+- **Documentation:** The README was drafted and refined with AI assistance.
+- **Tests:** Test cases and implementations were created with AI assistance.
+
+**The BASIC interpreter itself—including its tokenizer, expression evaluation, command handling, execution engine, and application logic—was designed and implemented by me.**
+
+AI was used as a supporting tool for the materials listed above, not as the author of the interpreter's core implementation.
