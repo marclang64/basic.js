@@ -1,6 +1,6 @@
 0 PRINT CHR$(147)
 10 PRINT CHR$(256)
-20 PRINT CHR$(5);"---- ";CHR$(312);"HELLO WORLD";CHR$(317);" ----";CHR$(318)
+20 PRINT CHR$(5);"---- ";CHR$(312);"GREETINGS ADVENTURER!";CHR$(317);" ----";CHR$(318)
 30 PRINT
 40 PRINT CHR$(154);"A SOFTWARE DEVELOPMENT ADVENTURE"
 50 PRINT
@@ -288,13 +288,13 @@
 6000 PRINT CHR$(147)
 6010 EXIT
 
-7000 OPENLINK "https://github.com/marclang64/retro-love"
+7000 OPENLINK "https://github.com/marclang64/basic.js"
 7010 GOTO 900
-7100 OPENLINK "https://github.com/marclang64/retro-love"
+7100 OPENLINK "https://github.com/marclang64/basic.js"
 7110 GOTO 5900
 7200 OPENLINK "mailto:info@marclang.ch"
 7210 GOTO 4800
-7300 OPENLINK "https://github.com/marclang64/retro-love"
+7300 OPENLINK "https://github.com/marclang64/basic.js"
 7310 GOTO 4800
 7400 OPENLINK "https://www.marclang.ch"
 7410 GOTO 4800

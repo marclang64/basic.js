@@ -41,8 +41,8 @@ Check it out [here](https://www.marclang.ch).
 Clone the repository:
 
 ```bash
-git clone https://github.com/marclang64/retro-love.git
-cd retro-love
+git clone https://github.com/marclang64/basic.js.git
+cd basic.js
 ```
 
 Install dependencies:
