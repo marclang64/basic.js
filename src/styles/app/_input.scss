@@ -2,12 +2,12 @@
   position: relative;
   display: flex;
   width: fit-content;
-  top: -8px;
+  top: -4px;
 
   &::after {
     content: " ";
     position: absolute;
-    bottom: 8px;
+    bottom: 12px;
     left: calc(var(--cursor-position, 0) * 1ch);
     width: 14px;
     height: 17px;
